@@ -1,1 +1,1 @@
-new scripts for permissions
+prints effective username of current user
